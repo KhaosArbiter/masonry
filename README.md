@@ -28,7 +28,7 @@ $ mason i https://github.com/KhaosArbiter/masonry --path bricks/<BRICK_NAME>
 
 ## Available bricks 🧱
 
-| Brick Name       | Description                                            |
-|------------------|--------------------------------------------------------|
-| feature_scaffold | Creates a new feature skeleton structure               |
-| flutter_scaffold | Sets up a skeleton structure for a new Flutter Project |
+| Brick Name       | Description                                                                                                                                                         |
+|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| feature_scaffold | Creates a new feature skeleton structure. See [this](https://codewithandrea.com/articles/flutter-project-structure/)                                                |
+| flutter_scaffold | Sets up a skeleton structure for a new Flutter Project. See [this](https://codewithandrea.com/articles/flutter-project-structure/) article for structure reasoning. |
