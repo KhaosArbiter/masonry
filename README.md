@@ -1,6 +1,6 @@
 # 🧱 Mason Bricks
 
-[Mason][mason_link] templates for boilerplate reduction
+Mason templates for boilerplate reduction
 
 ## Getting started 🚀
 
