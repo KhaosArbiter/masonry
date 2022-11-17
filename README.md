@@ -1,4 +1,4 @@
-# 🧱 Mason Bricks
+# 🧱 Masonry Bricks
 
 Mason templates for boilerplate reduction
 
@@ -12,7 +12,7 @@ To install one or more bricks locally, add them to your directory's `mason.yaml`
 bricks:
   <BRICK_NAME>:
     git:
-      url: https://github.com/KhaosArbiter/mason_bricks
+      url: https://github.com/KhaosArbiter/masonry
       path: bricks/<BRICK_NAME>
 ```
 
@@ -21,7 +21,7 @@ bricks:
 To install one or more bricks globally, use the following command:
 
 ```sh
-$ mason i https://github.com/KhaosArbiter/mason_bricks --path bricks/<BRICK_NAME>
+$ mason i https://github.com/KhaosArbiter/masonry --path bricks/<BRICK_NAME>
 ```
 
 *Note: Be sure to replace `<BRICK_NAME>` with one of the following bricks:*
