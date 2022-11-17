@@ -30,5 +30,5 @@ $ mason i https://github.com/KhaosArbiter/mason_bricks --path bricks/<BRICK_NAME
 
 | Brick Name       | Description                                            |
 |------------------|--------------------------------------------------------|
-| feature_scaffold | Creates a new feature skeleton                         |
+| feature_scaffold | Creates a new feature skeleton structure               |
 | flutter_scaffold | Sets up a skeleton structure for a new Flutter Project |
