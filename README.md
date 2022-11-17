@@ -1,16 +1,34 @@
-# mason_bricks
+# 🧱 Mason Bricks
 
-Collection of Bricks for reducing Flutter boilerplate
+[Mason][mason_link] templates for boilerplate reduction
 
-## Getting Started
+## Getting started 🚀
 
-This project is a starting point for a Flutter application.
+### Install locally 🏠
 
-A few resources to get you started if this is your first Flutter project:
+To install one or more bricks locally, add them to your directory's `mason.yaml`:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```yaml
+bricks:
+  <BRICK_NAME>:
+    git:
+      url: https://github.com/KhaosArbiter/mason_bricks
+      path: bricks/<BRICK_NAME>
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Install globally 🗺
+
+To install one or more bricks globally, use the following command:
+
+```sh
+$ mason i https://github.com/KhaosArbiter/mason_bricks --path bricks/<BRICK_NAME>
+```
+
+*Note: Be sure to replace `<BRICK_NAME>` with one of the following bricks:*
+
+## Available bricks 🧱
+
+| Brick Name       | Description                                            |
+|------------------|--------------------------------------------------------|
+| feature_scaffold | Creates a new feature skeleton                         |
+| flutter_scaffold | Sets up a skeleton structure for a new Flutter Project |
