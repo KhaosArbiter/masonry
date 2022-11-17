@@ -1,6 +1,6 @@
 # 🧱 Masonry Bricks
 
-Mason templates for boilerplate reduction
+Mason templates for boilerplate reduction.  For help using Mason, see their documentation [here](https://github.com/felangel/mason/tree/master/packages/mason_cli#readme).
 
 ## Getting started 🚀
 
