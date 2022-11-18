@@ -17,3 +17,6 @@ bricks:
 
   feature_scaffold:
     path: bricks/feature_scaffold
+
+  api_scaffold:
+    path: bricks/api_scaffold
